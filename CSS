@@ -10,6 +10,7 @@ h2 {
     background-color: orange;
 }
 
-footer {
-  font-family: "cursive";
+ul {
+    list-style-type: circle ;
 }
+
