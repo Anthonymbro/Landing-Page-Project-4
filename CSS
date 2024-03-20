@@ -1,17 +1,17 @@
 header {
     background-color: orange;
+    border: 10px solid red;
 }
 
 footer {
-    background-color: orange; 
+    background-color: orange;
 }
 
 h2 {
-    background-color: orange;  
+    background-color: orange;
 }
 
 ul {
-    list-style-type: circle ;  
+    list-style-type: circle ;
 }
-     
- 
+
