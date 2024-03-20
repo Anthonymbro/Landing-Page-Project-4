@@ -5,6 +5,7 @@ header {
 
 footer {
     background-color: orange;
+    border: 5px solid red;
 }
 
 h2 {
