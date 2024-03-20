@@ -10,9 +10,11 @@ footer {
 
 h2 {
     background-color: orange;
+    border: 5px solid red;
 }
 
 ul {
     list-style-type: circle ;
 }
+
 
