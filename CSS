@@ -14,7 +14,8 @@ h2 {
 }
 
 ul {
-    list-style-type: circle ;
+
+    list-style-type: circle;
+    background-color: orange;
     border: 5px solid red;
 }
-
